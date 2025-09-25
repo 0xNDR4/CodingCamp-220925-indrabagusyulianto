@@ -3,23 +3,27 @@
 Website portfolio untuk **Indra Bagus Yulianto** dan perusahaan **ZevinTech**.
 
 ## ✨ Fitur
-- ✅ Responsive Design
-- ✅ Contact Form dengan Validasi
+- ✅ Responsive Design (Mobile Friendly)
+- ✅ Contact Form dengan Validasi Real-time
 - ✅ MongoDB Integration
-- ✅ Modern UI/UX
+- ✅ Modern UI/UX dengan Bootstrap 5
+- ✅ Smooth Animations
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5
-- **Backend:** Node.js, Express.js, MongoDB
-- **Deployment:** GitHub, MongoDB Atlas
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5, Font Awesome  
+**Backend:** Node.js, Express.js, MongoDB, Mongoose  
+**Tools:** Git, GitHub, MongoDB Atlas
+
+## 📸 Preview
+![Website Preview](frontend/assets/images/preview.jpg)
 
 ## 🏃‍♂️ Cara Menjalankan Local
 
 ### Prerequisites
-- Node.js
-- MongoDB (local atau Atlas)
+- Node.js (v14 atau lebih tinggi)
+- MongoDB (local atau MongoDB Atlas)
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/0xNDR4/CodingCamp-220925-indrabagusyulianto.git
+git clone https://github.com/indrabagus/CodingCamp-220925-indrabagusyulianto.git
 cd CodingCamp-220925-indrabagusyulianto
